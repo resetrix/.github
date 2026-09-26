@@ -1,4 +1,8 @@
-<h1 align="center">Resetrix</h1>
+<p align="center">
+  <a href="https://resetrix.com">
+    <img src="https://raw.githubusercontent.com/resetrix/.github/main/profile/resetrix-wordmark.svg" alt="Resetrix" width="420" />
+  </a>
+</p>
 
 <p align="center"><em>Re-think. Re-work. Re-focus.</em></p>
 
