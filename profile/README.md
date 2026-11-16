@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://resetrix.com">
-    <img src="https://raw.githubusercontent.com/resetrix/.github/main/profile/resetrix-wordmark.svg" alt="Resetrix" width="420" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resetrix/.github/main/profile/resetrix-wordmark-dark.svg" />
+      <img src="https://raw.githubusercontent.com/resetrix/.github/main/profile/resetrix-wordmark.svg" alt="Resetrix" width="420" />
+    </picture>
   </a>
 </p>
 
